@@ -1,0 +1,39 @@
+//normalize
+@import "https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"; 
+
+//setups
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;500;600;700;800;900&display=swap');
+@import "_layout";
+
+//blocks
+
+@import "./blocks/header.css";
+@import "./blocks/menu__top.css";
+@import "./blocks/box-content.css";
+// @import "blocks/_contacts";
+// @import "blocks/_gamburger";
+// @import "blocks/_features";
+// @import "blocks/_feature";
+// @import "blocks/_section";
+// @import "blocks/_headline";
+// @import "blocks/_benefits";
+// @import "blocks/_benefit";
+// @import "blocks/_reviews";
+// @import "blocks/_interactive-avatar";
+// @import "blocks/_form";
+// @import "blocks/_radio";
+// @import "blocks/_fixed-menu";
+// @import "blocks/_footer";
+// @import "blocks/_socials";
+// @import "blocks/_map";
+// @import "blocks/_blackout";
+// @import "blocks/_modalmenu";
+// @import "blocks/_products";
+// @import "blocks/_colors";
+// @import "blocks/_slider";
+// @import "blocks/_dropdown";
+// @import "blocks/_team";
+// @import "blocks/_modalform";
+// @import "blocks/_video";
+// @import "blocks/_product-menu";
+

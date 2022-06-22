@@ -1,0 +1,20 @@
+.menu-top__list{
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 5%;
+}
+
+.menu-top__item{
+    display: inline-block;
+    width: 11vw;
+    text-align: center;
+}
+.menu-top__item--top{
+    display: inline-block;
+    text-align: center;
+}
+.menu-top__first{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
