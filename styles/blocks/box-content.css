@@ -3,6 +3,8 @@
   display: grid;
   -ms-grid-columns: 300px auto;
   grid-template-columns: 300px auto;
+  width: 728px;
+  height: 584px;
 }
 
 .sidebar {
@@ -18,7 +20,7 @@
           justify-content: space-between;
   width: 12vw;
   height: 38rem;
-  margin-left: 35%;
+  margin-left: 15%;
   background-color: white;
   border-radius: 20px;
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -46,12 +48,12 @@
   font-size: 55px;
   text-align: center;
   font-weight: 300;
+  margin-left: -14%;
 }
 
 .title__bot {
   font-size: 32px;
   text-align: start;
-  margin-left: 10%;
 }
 
 .title__bot-text::before {

@@ -9,6 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   position: relative;
   background-color: aliceblue;
+  max-width: 1520px;
 }
 
 .wrapper {
